@@ -3,7 +3,7 @@ Animel is using React, Redux, Material-UI, etc...
 
 ```bash
 # Create Sample by animel
-git clone https://github.com/ykawase1011/animel.git
+git clone https://github.com/ackn14/animel.git
 cd animel
 npm install
 npm start
@@ -14,8 +14,6 @@ npm run build
 
 スマホ・PCに対応した、シングルページアプリケーション（SPA）です。
 ボタンを押下すると[ShangriLa Anime API](https://qiita.com/AKB428/items/64938febfd4dcf6ea698)を叩いて今期のアニメ情報を取得してきて表示するというシンプルなアプリ。昨今はモバイルファーストの世の中なのでモバイルを意識しつつもPCで表示できるようにレスポンシブなアプリにしています。
-
-作り方などは[こちら](https://blog.f-arts.work/archives/791)にまとめておりますのでご参考下さい。
 
 ## ソフトウェア構成
 ```
@@ -33,8 +31,3 @@ react-share：2.3.1（SNSシェアボタン）
 react-ga：2.5.3（Google Analystics）
 react-adsense：0.0.6（Google Adsense）
 ```
-
-# License
-MIT License
-
-Copyright (c) 2018 Yuji Kawase
