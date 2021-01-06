@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^1.5.1",
     "@material-ui/icons": "^1.1.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "react": "^16.13.1",
     "react-adsense": "0.0.6",
     "react-copy-to-clipboard": "^5.0.2",
